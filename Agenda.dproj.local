@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/12 15:17:34.000.688,=C:\Users\João Paulo Castro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 15:18:05.000.258,C:\Users\João Paulo Castro\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\WORKSPACE\DELPHI\Agenda\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/10/12 15:18:05.000.258,C:\Users\João Paulo Castro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\WORKSPACE\DELPHI\Agenda\UnitPrincipal.dfm</Transaction>
+    <Transaction>2022/10/12 15:18:09.000.772,C:\Users\João Paulo Castro\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\WORKSPACE\DELPHI\Agenda\Agenda.dproj</Transaction>
+    <Transaction>2022/10/12 15:19:39.000.891,=D:\WORKSPACE\DELPHI\Agenda\Unit1.pas</Transaction>
+    <Transaction>2022/10/12 15:20:29.000.685,D:\WORKSPACE\DELPHI\Agenda\Unit1.pas=D:\WORKSPACE\DELPHI\Agenda\UnitDM.pas</Transaction>
+    <Transaction>2022/10/12 15:20:29.000.685,D:\WORKSPACE\DELPHI\Agenda\Unit1.dfm=D:\WORKSPACE\DELPHI\Agenda\UnitDM.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
